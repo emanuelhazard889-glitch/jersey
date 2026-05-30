@@ -1,0 +1,13 @@
+{
+  "name": "jersey-platform",
+  "version": "1.0.0",
+  "description": "Jersey Investment Platform Backend",
+  "main": "Server.js",
+  "scripts": {
+    "start": "node Server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "sqlite3": "^5.1.7"
+  }
+}
