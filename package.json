@@ -2,9 +2,9 @@
   "name": "jersey-platform",
   "version": "1.0.0",
   "description": "Jersey Investment Platform Backend",
-  "main": "Server.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node Server.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "express": "^4.19.2",
